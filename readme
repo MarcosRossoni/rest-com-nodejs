@@ -1,0 +1,11 @@
+CURSO DE REST COM NODEJS: API COM EXPRESS E MYSQL
+
+01- Instalacao do NodeJs e configuracao do Express 
+    Iniciamos um novo projeto node;
+    Criamos uma rota com express;
+    Adicionamos o nodemon para inicializar o nosso servidor e reiniciar o servidor automaticamente a qualquer alteração.
+
+02- Cadastrando um atendimento
+    Configuramos o express e isolamos essa configuração;
+    Criamos uma rota POST para criar um novo atendimento e consumir essa rota usando o Postman;
+    Usamos body-parser para conseguir ler os dados que estamos recebendo no body.
